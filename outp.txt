@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang='ru' dir='ltr'>
+
+<head>
+<script type="text/javascript" src="/js/loader_nav212411255269_0.js"></script>
+
+<link rel="shortcut icon" href="/images/icons/favicons/fav_logo.ico?6" />
+
+<meta http-equiv="content-type" content="text/html; charset=windows-1251" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="robots" content="noindex, nofollow" />
+
+<title>ВКонтакте | Video Ext</title>
+
+<noscript><meta http-equiv="refresh" content="0; URL=/badbrowser.php"></noscript>
+
+<link type="text/css" rel="stylesheet" href="https://st1-92.vk.com/css/al/fonts_cnt.1ab0d9523ca369513519.css" />
+<link type="text/css" rel="stylesheet" href="https://st1-92.vk.com/css/al/lite.e8897c6bbbe6af2f1a25.css" />
+
+<script type="text/javascript">
+var vk = {
+  ads_rotate_interval: 120000,
+  al: parseInt('3') || 4,
+  intnat: '1' ? true : false,
+  lang: 0,
+  rtl: parseInt('') || 0,
+  version: 11257393,
+  loginscheme: 'https',
+  loginDomain: 'https://login.vk.com/',
+  ip_h: '43a96f00a605c606ac',
+  id: parseInt('0'),
+  nodomain: '',
+  pr_tpl: "<div class=\"pr %cls%\" id=\"%id%\"><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><\/div>",
+  audioInlinePlayerTpl: "<div class=\"audio_inline_player _audio_inline_player no_select\">\n  <div class=\"audio_inline_player_right\">\n    <div class=\"audio_inline_player_volume\"><\/div>\n  <\/div>\n  <div class=\"audio_inline_player_left\">\n    <div class=\"audio_inline_player_progress\"><\/div>\n  <\/div>\n<\/div>",
+  widget: 1,
+  show_external_auth_box: 0,
+  navPostfix: "",
+  pe: {"vk_apps_svg_qr":1,"upload.send_upload_stat":1,"push_notifier":1,"notify_new_events_box":1,"mini_apps_web_add_to_favorites":1,"mini_apps_web_add_to_menu":1,"mini_apps_m_web_new_stub_page":1,"cookie_secure_default_true":1,"stickers_bot_link":1,"widgets_xdm_same_origin":1,"stickers_money_transfer_suggestions":1,"web2_story_box_enabled":1,"bridge_mobile_story_box_enabled":1,"navigation_timespent":1,"market_item_recommendations_view_log":1,"market_item_others_view_log":1,"web_stats_transport_story_view":1,"registration_item_stat":1,"mvk_lazy_static_reload":1,"mute_mvk_err_peaks":1,"notifications_view_new":1,"ads_market_autopromotion_bookmarks_stats":1,"mini_apps_web_call_api_form_data":1,"web_new_photo_editor":1,"web_new_photo_editor_crop":1,"web_photo_editor_hide_entrypoint":1,"web_stats_try_send":1,"narratives_new":1,"stickers_catalog_reload_after_buy":1,"web_stats_send_on_events_limit":1,"batchify_web_stats":1,"stickers_web_new_ui":1,"ads_new_reports_web_tgb":1,"ads_autopromotion_web_cashback":1,"ads_autopromotion_web_geo":1,"recognize_mock_turn_off":1,"photo_recognition_web":1,"aliexpress_app_links_with_partner_links":1,"ads_new_reports_web_histories":1,"ads_new_reports_mvk_histories":1,"audio_unauth_preview":1,"audio_unauth_preview_box":1,"ads_easy_promote_goods_new_create_api":1,"unauthorized_media_layer_box":1,"mail_history_unread_counter_observer":1,"pinned_conversations":1,"messenger_empty_pinned_support":1,"market_catalog_fixed_header":1,"force_act_in_get_params":1,"vk_mini_apps_new_web_snippet":1,"market_suggest_search_queries":1,"mail_longpoll_unread_counter":1,"faq_clean_up_extra_spaces":1,"nospam_use_new_conditions_editor":1,"mvk_quick_search_canceled_requests":1,"games_not_send_install_bridge_event":1}
+}
+var StaticFiles = {
+  'lite.js':{v:'99'},
+  'lite.css':{v:'0'},'fonts_cnt.css':{v:'0'},'lang0_0.js': {v: 27007911},'al/base.e0faf51b5c8eec925fbf.css':{v:''},'base.css':{v:1}
+}
+</script>
+<script type="text/javascript" src="/js/al/lite.js?99"></script>
+<script type="text/javascript" src="/js/lang0_0.js?27007911"></script><link type="text/css" rel="stylesheet" href="https://st1-92.vk.com/css/al/base.e0faf51b5c8eec925fbf.css" /><base target="_blank"/>
+
+</head>
+
+<body class="is_rtl VK1  widget_body no_auth">
+  <div id="system_msg" class="fixed"></div>
+  <div id="utils"></div>
+  <div id="box_layer_bg" class="fixed"></div><div id="box_layer_wrap" class="scroll_fix_wrap fixed"><div id="box_layer"><div id="box_loader"><div class="pr pr_baw pr_medium" id="box_loader_pr"><div class="pr_bt"></div><div class="pr_bt"></div><div class="pr_bt"></div></div><div class="back"></div></div></div></div>
+
+  <div id="stl_left"></div><div id="stl_side"></div>
+
+  <a id="widget_focus_link" href="javascript: return;"></a>
+  <script type="text/javascript">domStarted();</script>
+
+  <div id="page_wrap"><div style="display:block; position:absolute; top:0pt; right:0pt; left:0pt; bottom:0pt; background:#515A70;">
+<div style="position:absolute; top:50%; text-align:center; right:0pt; left:0pt; font-family:Tahoma; font-size:12px; color:#FFFFFF;">
+<center id="video_ext_wrap" style="margin-top: -165px; line-height: 160%; font-size: 14px; padding: 0px 40px;">
+<div id="light_cry_dog" class="light_cry_dog" style="margin-bottom: 20px;"></div>
+<div id="video_ext_msg">
+Необходимо авторизоваться
+</div>
+<a id="video_ext_btn" class="flat_button button_big" href="https://vk.com/video231061039_456240524" target="_blank" style="font-size:13px; margin: 20px 0px;">Перейти к ВКонтакте</a>
+<div id="video_ext_desc" style="color: #D4DADD; font-size: 12px;">
+ВКонтакте — это социальная сеть, позволяющая вам делиться контентом с вашими друзьями.<br>Доступно на <b>iOS</b> и <b>Android</b>. Ищите <b>VK</b> в магазине приложений.
+</center>
+</div>
+</div></div>
+  <div class="progress" id="global_prg"></div>
+
+  <script type="text/javascript">
+    if (window.devicePixelRatio >= 2) {
+      document.body.className += ' is_2x';
+    }
+    domReady();
+    
+addLangKeys({"global_emoji_cat_recent":"Часто используемые","global_emoji_cat_1":"Эмоции","global_emoji_cat_2":"Животные и растения","global_emoji_cat_3":"Жесты и люди","global_emoji_cat_4":"Еда и напитки","global_emoji_cat_5":"Спорт и активности","global_emoji_cat_6":"Путешествия и транспорт","global_emoji_cat_7":"Предметы","global_emoji_cat_8":"Символы","global_emoji_cat_9":"Флаги"}, true);
+addTemplates({"_":"_"});
+function onResize() {
+  if (window.innerHeight && window.innerHeight < 340) {
+    hide('video_ext_desc');
+    if (window.innerHeight < 290) {
+      setStyle(ge('light_cry_dog'), {width: 80, height: 80, backgroundSize: '80px 80px', marginBottom: 10});
+      setStyle(ge('video_ext_wrap'), {marginTop: -100});
+      setStyle(ge('video_ext_msg'), {fontSize: 12, lineHeight: '140%'});
+      setStyle(ge('video_ext_btn'), {marginTop: 10});
+    } else {
+      setStyle(ge('video_ext_wrap'), {marginTop: -130});
+      setStyle(ge('light_cry_dog'), {width: 120, height: 120, backgroundSize: '120px 120px', marginBottom: 15});
+      setStyle(ge('video_ext_btn'), {marginTop: 15});
+    }
+  }
+}
+onResize();;vk.id = 0;vk.ts = 1620474692
+    ;window._tmr = window._tmr || [];
+var tmr = {"id":2685520,"pid":0,"url":"","referrer":"","title":""};
+tmr.url     = unclean(tmr.url     || '');
+tmr.referrer = unclean(tmr.referrer || '');
+tmr.title   = unclean(tmr.title   || '');
+window._tmr.push({id: tmr.id, pid: tmr.pid, url: tmr.url, referrer: tmr.referrer, title: tmr.title, type: "pageView", start: (new Date()).getTime()});
+(function (d, w) {
+var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+  </script>
+</body>
+
+</html>

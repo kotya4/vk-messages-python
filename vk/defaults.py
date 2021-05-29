@@ -1,0 +1,38 @@
+SCOPE_MESSAGES = 4096
+SCOPE_VIDEO = 16
+
+DEFAULT_V = '5.130'
+
+DEFAULT_SCOPE = SCOPE_MESSAGES | SCOPE_VIDEO
+
+# Offitial windows app credentials from
+# https://github.com/negezor/vk-io/blob/master/packages/authorization/src/constants.ts
+DEFAULT_CLIENT_ID = '3697615'
+DEFAULT_CLIENT_SECRET = 'AlVXZFMUqyrnABp8ncuU'
+
+# Firefox browser
+DEFAULT_HEADERS = {
+	'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0'
+}
+
+DEFAULT_LONGPOLL_VERSION = 3
+
+DEFAULT_LONGPOLL_MODE = 0
+
+DEFAULT_LONGPOLL_DELAY_SECS = 5
+
+DEFAULT_WAIT_BEFORE_RECONNECT = 60
+
+DEFAULT_RECONNECT_TRIES = 3
+
+DEFAULT_DEBUG = True
+
+DEFAULT_DEBUG_DUMP_LEN = 10256
+
+DEFAULT_ERROR = True
+
+DEFAULT_USE_ESCSEC = True
+
+class DEFAULT_ESCSEC :
+	REDC = "\x1b[0;30;41m"
+	ENDC = "\x1b[0m"
